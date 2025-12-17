@@ -68,7 +68,7 @@ export default function Navbar() {
               <img
                 src="https://i.ibb.co/Rpk9dMF9/Masterphonerepair.png"
                 alt="Master Phone Repair"
-                className="h-25 md:h-36 w-auto mt-4"
+                className="h-24 sm:h-28 md:h-32 lg:h-36 w-auto"
               />
             </motion.a>
 
